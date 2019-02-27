@@ -12,7 +12,7 @@ Resize a Video using FFMPEG With NVIDIA GPU Acceleration on Ubuntu
 ------------------------------------------------------------------
 
 This tutorial deals with video resizing using GPU accelerated libraries
-supported by FFMPEG in Ubuntu 16.04. The code here belongs to ["Resize a Video using FFMPEG With NVIDIA GPU Acceleration on Ubuntu"](http://machinelearninguru.com/computer_vision/video_processing/ffmpeg_resize_video/ffmpeg_resize.html) post.
+supported by FFMPEG in Ubuntu 16.04. The code here belongs to ["Resize a Video is Unbelievably Fast by using FFMPEG and GPU Acceleration – A Tutorial"](https://machinelearningmindset.com/resize-a-video-is-unbelievably-fast-by-using-ffmpeg-and-gpu-acceleration-a-tutorial/) post.
 
 <!--    #######################  ####################### ####################### #######################            -->
 <!--    #######################  ####################### ####################### #######################            -->
